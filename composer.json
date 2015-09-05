@@ -23,7 +23,7 @@
             "type": "vcs",
             "url": "https://github.com/itafroma/guzzle"
         }
-    ]
+    ],
     "autoload": {
         "psr-4": { "GuzzleHttp\\Subscriber\\Oauth\\": "src" }
     },
